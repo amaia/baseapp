@@ -1,0 +1,7 @@
+
+ExceptionNotifier.sender_address = %("Application Error" <app.error@example.com>)
+
+ExceptionNotifier.email_prefix = "[ERROR] "
+
+ExceptionNotifier.exception_recipients = %w(developers@example.com)
+
