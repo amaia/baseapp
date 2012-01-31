@@ -1,6 +1,6 @@
 # Rake task tomada de la página de Railroad (http://railroad.rubyforge.org/)
 # Gracias a Thomas Ritz por el código (http://www.galaxy-ritz.de/)
-# Modificada por Amaia Castro (amaia@dabne.net) para incluir la generación de 
+# Modificada por Amaia Castro (amaia@dabne.net) para incluir la generación de
 # diagramas en png.
 
 namespace :doc do
